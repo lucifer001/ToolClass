@@ -7,9 +7,9 @@
 
 
 
-\\\ NSString+Encryption->使用MD5算法进行签名（16位）
+\\\objective-c
+NSString+Encryption->使用MD5算法进行签名（16位）
 			 使用MD5算法进行签名（32位）
 			 DES加密算法
 			 DES解密算法（暂不支持中文，输出编码不知道用哪个）
 \\\
-
