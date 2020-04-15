@@ -41,6 +41,7 @@
 		3D244E3923B70EC800FD5752 /* UIDevice+TYExt.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+TYExt.m"; sourceTree = "<group>"; };
 		3D244E3B23B718C800FD5752 /* UIApplication+TYExt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIApplication+TYExt.h"; sourceTree = "<group>"; };
 		3D244E3C23B718C800FD5752 /* UIApplication+TYExt.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+TYExt.m"; sourceTree = "<group>"; };
+		3D9E09EC24478EC6007CE390 /* TYMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TYMacro.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 				3D244E3923B70EC800FD5752 /* UIDevice+TYExt.m */,
 				3D244E3B23B718C800FD5752 /* UIApplication+TYExt.h */,
 				3D244E3C23B718C800FD5752 /* UIApplication+TYExt.m */,
+				3D9E09EC24478EC6007CE390 /* TYMacro.h */,
 				3D244E2223B70D6300FD5752 /* Main.storyboard */,
 				3D244E2523B70D6700FD5752 /* Assets.xcassets */,
 				3D244E2723B70D6700FD5752 /* LaunchScreen.storyboard */,
